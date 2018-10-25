@@ -83,6 +83,7 @@ public class MorseDecoder {
          * transitions. You will also have to store how much power or silence you have seen.
          */
 
+        
         // if ispower and waspower
         // else if ispower and not waspower
         // else if issilence and wassilence
